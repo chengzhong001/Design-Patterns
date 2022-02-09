@@ -1,3 +1,3 @@
-module design-pattern
+module design-patterns
 
 go 1.17
